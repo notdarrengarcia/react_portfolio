@@ -13,7 +13,7 @@ function App() {
         <NavBar />
       </div>
       <div className="main-content">
-        <div clasName="content">
+        <div className="content">
           <Switch>
             <Route path="/" exact>
             <HomePage />
