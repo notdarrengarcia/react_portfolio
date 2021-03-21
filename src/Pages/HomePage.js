@@ -16,7 +16,7 @@ function HomePage() {
                     <span>Darren Garcia.</span>
                 </h1>
                 <p className="h-sub-text">
-                    lorem Ipsum. A Full Stack Developer with knowledge in many areas.
+                    A Full Stack Developer with knowledge in many areas.
                     Most notably in my ability to learn and react quickly to new and fast paced environements.
                 </p>
                 <div className="icons">

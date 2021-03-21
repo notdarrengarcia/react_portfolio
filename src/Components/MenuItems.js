@@ -18,7 +18,7 @@ function MenuItems({menuItem}) {
                         <h5>
                             {item.title}
                         </h5>
-                        <p>Placeholder Paragraph</p>
+                        <p>2020-2021</p>
                     </div>
                 })
             }
