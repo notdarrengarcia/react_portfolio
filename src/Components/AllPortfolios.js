@@ -2,6 +2,7 @@ import port1 from '../img/portImages/port1.png';
 import port2 from '../img/portImages/port2.jpg';
 import port3 from '../img/portImages/port3.png';
 import port4 from '../img/portImages/port4.png';
+import port5 from '../img/portImages/port5.png';
 
 const portfolios = [
     {
@@ -43,6 +44,16 @@ const portfolios = [
         icon2: 'Y',
         image: port4,
         title: 'Workday Planner'
+    },
+    {
+        id: 1,
+        category: 'Javascript',
+        link1: 'https://github.com/jeishu/zombie-parent',
+        link2: 'https://zombie-parent.herokuapp.com/',
+        icon1: 'G',
+        icon2: 'Y',
+        image: port5,
+        title: 'Zombie Parent'
     },
 
 
