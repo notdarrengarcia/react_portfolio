@@ -24,13 +24,13 @@ function AboutPage() {
             <Title title={'Services'} span={'Services'} />
             <div className="services-container">
                 <ServicesSection image={design} title={'Web Design'} 
-                text={'Lorem Ipsum blah blah blah'}
+                text={'With my knowledge in HTML, CSS, SASS, Bootstrap, and a series of different databases. Im certain I can make the website you need.'}
                 />
                 <ServicesSection image={intelligence} title={'Intuitive Interface'} 
-                text={'Lorem Ipsum blah blah blah'}
+                text={'First thought when creating anything should be the user interface. I always strive to create a unique and easy interactive website to use.'}
                 />
                 <ServicesSection image={gamedev} title={'App Development'} 
-                text={'Lorem Ipsum blah blah blah'}
+                text={'New to the world of mobile development. I have been taking courses and learning React Native extensively to create a stunning and intuitive apps.'}
                 />
                 
             </div>
