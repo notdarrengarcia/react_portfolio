@@ -11,7 +11,7 @@ function ImageSection() {
                 <h4>I am <span>Darren Garcia.</span></h4>
                 <p className="about-text">
                     I am a passionate and hard working individual. I've been coding for
-                    <br></br> a little over a year now and I feel very confident I could be the one your looking for. My other hobbies include
+                    <br></br> a little over a year now and I feel very confident I could be the one your looking for. My other hobbies include photography and cinematography.
                 </p>
                 <div className="about-details">
                     <div className="left-section">
@@ -31,7 +31,9 @@ function ImageSection() {
                         <p>: United States</p>
                     </div>
                 </div>
-                <button className="btn">Download Resume</button>
+                <button>
+                <a href="https://docs.google.com/document/d/1LiY2wI6NBllD7DYp1CMIwoAtrLJXQKPE-0LNthSrMB4/edit?usp=sharing" class="btn">Download Resume</a>
+                </button>
             </div>
         </div>
     )

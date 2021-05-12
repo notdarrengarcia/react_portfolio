@@ -30,7 +30,7 @@ function AboutPage() {
                 text={'First thought when creating anything should be the user interface. I always strive to create a unique and easy interactive website to use.'}
                 />
                 <ServicesSection image={gamedev} title={'App Development'} 
-                text={'New to the world of mobile development. I have been taking courses and learning React Native extensively to create a stunning and intuitive apps.'}
+                text={'New to the world of mobile development. I have been taking courses and learning React Native extensively to create stunning intuitive apps.'}
                 />
                 
             </div>
